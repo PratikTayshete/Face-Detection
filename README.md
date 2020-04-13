@@ -8,6 +8,8 @@ The application works as follows:
   - Can start and stop the webcam by using the avaiable QPushButtons.
   
   - Can toggle on and off the face detection implementation on the webcam feed by clicking the available QPushbutton.
+  
+ The user interface is made using Qt Designer.
  
  For more information on OpenCV and different classifiers, check the OpenCV official documentation: 
  https://docs.opencv.org/4.1.1/
