@@ -3,6 +3,8 @@ It is a simple PySide2 desktop application that uses Haarcascade classfier from 
 
 The application works as follows:
 
+  - Install the required packages using pip3: <i>pip3 install -r requirements.txt</i> 
+
   - Launch the application by running the <i>main.py</i> file.
   
   - Can start and stop the webcam by using the avaiable QPushButtons.
