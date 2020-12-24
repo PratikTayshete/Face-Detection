@@ -1,4 +1,4 @@
-# Face-Detection-Application
+# Face-Detection
 It is a simple PySide2 desktop application that uses Haarcascade classfier from OpenCV to detect faces in a webcam video feed.
 
 The application works as follows:
